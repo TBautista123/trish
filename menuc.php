@@ -4,8 +4,8 @@ include("navbar.php");
 ?>
 <div class="background-image1"> 
 <!-- Carousel -->
-
 <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
   <!-- Indicators/dots -->
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
