@@ -7,6 +7,5 @@ if ($conn->connect_error) {
 }
 echo "Connection successfully";
 
-$conn->close();
 ?>
 
