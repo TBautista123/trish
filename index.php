@@ -1,6 +1,7 @@
 <?php  
 include("header.php");
 include("navbar.php");
+include("dbconn.php");
 ?>
 <div class="background-image1"> 
 <!-- Carousel -->
